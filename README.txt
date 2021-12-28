@@ -1,1 +1,3 @@
-Initial README
+This is a game I made several years ago. The first set of levels are nearly a clone of the original game. The original version of the original game I believe is accessible here (https://gamejolt.com/games/i-saw-her-standing-there/19869); however, it runs on flash, which is an issue ever since support got pulled.
+
+To access full level select and cheats go to the "Level Select" page and type the code "ETERNAL" and press ENTER. At any time, press TAB to return to the main menu.
